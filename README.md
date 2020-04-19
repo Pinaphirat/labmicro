@@ -22,4 +22,4 @@
 -------------------------
 
 ตัวอย่าง Microcontroller ESP32
-![Microcontroller](https://github.com/Pinaphirat/techgithub/blob/master/microprocessor.jpg)
+![Microcontroller](https://github.com/Pinaphirat/labmicro/blob/master/microprocessor.jpg)
